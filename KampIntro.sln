@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Mate
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{77BF909C-79A8-461B-9199-E483FF7DEFD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{418080DB-9352-4532-9A3F-DB5C5E3FB2A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{418080DB-9352-4532-9A3F-DB5C5E3FB2A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{42BF463E-C777-4FC3-828F-06C00EB66C72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{42BF463E-C777-4FC3-828F-06C00EB66C72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{BFDA4F0A-E9D3-411A-8707-72598CB69037}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{42BF463E-C777-4FC3-828F-06C00EB66C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42BF463E-C777-4FC3-828F-06C00EB66C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42BF463E-C777-4FC3-828F-06C00EB66C72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFDA4F0A-E9D3-411A-8707-72598CB69037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFDA4F0A-E9D3-411A-8707-72598CB69037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFDA4F0A-E9D3-411A-8707-72598CB69037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFDA4F0A-E9D3-411A-8707-72598CB69037}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
